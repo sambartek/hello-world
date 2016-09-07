@@ -1,2 +1,2 @@
 # hello-world
-My first attempt learing how to use Github.
+Hi, my name is Sam Bartek, and this is my first attempt at learing how to use Github.
